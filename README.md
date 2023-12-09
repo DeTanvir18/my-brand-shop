@@ -12,5 +12,12 @@ I have made this react project for a specific purpose. It is a car buying site f
 * The site receives data from a live server using MongoDB Database
 * The server generates all the data dynamically to the site
 
+## Packages & Technologies
+* vite-react
+* node
+* firebase
+* express
+* mongoDB etc.
+
 
 Here's the live site Link: https://assign-10-brand-shop.web.app/
