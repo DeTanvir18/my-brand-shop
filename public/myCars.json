@@ -1,0 +1,322 @@
+[
+    {
+        "image": "https://i.ibb.co/KWW1D17/toyotacamry900x500.jpg",
+        "name": "Toyota Camry",
+        "brand": "Toyota",
+        "type": "Sedan",
+        "price": 28000,
+        "short_description": "Toyota Camry, an elegant sedan from Toyota, is tailor-made for city commuting and road trips. It has stylish design and comfortable interior in the sedan category.",
+        "long_description": "The Toyota Camry stands as a testament to elegance and efficiency in the sedan world. With its refined design, the Camry offers a seamless blend of sophistication and performance, making it a perfect choice for city commutes and long road trips alike. The interior exudes comfort, and the advanced safety features provide peace of mind on every journey. Whether navigating busy urban streets or cruising down the highway, the Camry delivers a superior driving experience, combining style, comfort, and reliability in one impressive package.",
+        "rating": 4.5
+    },
+    {
+        "image": "https://i.ibb.co/rpmTZvP/toyotarav4900x500.jpg",
+        "name": "Toyota RAV4",
+        "brand": "Toyota",
+        "type": "SUV",
+        "price": 32000,
+        "short_description": "Toyota RAV4, a versatile SUV, is designed for urban adventures and off-road excursions. With its spacious cabin, advanced technology, and robust performance.",
+        "long_description": "The Toyota RAV4 redefines the SUV experience, offering versatility that spans both city life and off-road escapades. Its spacious cabin provides ample room for passengers and cargo, while the advanced technology keeps everyone connected and entertained. The RAV4's robust performance makes it a reliable companion for outdoor enthusiasts, ensuring a smooth ride on various terrains. Whether it's a weekend getaway or a daily commute; the RAV4 delivers unmatched comfort, safety, and excitement.",
+        "rating": 4.3
+    },
+    {
+        "image": "https://i.ibb.co/2SmhVz0/2020toyotaprius900x500.jpg",
+        "name": "Toyota Prius",
+        "brand": "Toyota",
+        "type": "Hybrid",
+        "price": 25000,
+        "short_description": "Toyota Prius, a fuel-efficient hybrid car, combines modern features with eco-conscious driving. It has exceptional fuel efficiency, comfortable interior and advanced hybrid technology.",
+        "long_description": "The Toyota Prius stands at the forefront of eco-conscious driving, offering a smart and stylish solution for environmentally aware individuals. Its exceptional fuel efficiency not only saves money at the pump but also reduces the carbon footprint, contributing to a greener planet. Inside, the Prius boasts a comfortable and technologically advanced interior, ensuring a pleasant driving experience for both short commutes and long journeys.",
+        "rating": 4.8
+    },
+    {
+        "image": "https://i.ibb.co/4d4pSn7/prado900x500.jpg",
+        "name": "Toyota Land Cruiser",
+        "brand": "Toyota",
+        "type": "Off Roader",
+        "price": 85000,        
+        "short_description": "Powerful off-roader with luxurious amenities for adventurous journeys.Toyota Land Cruiser, a powerful off-roader, combines adventure with luxury. With its advanced off-road capabilities, spacious interior and a potent engine.",
+        "long_description": "The Toyota Land Cruiser is a powerhouse off-roader equipped with luxurious amenities. Whether conquering rugged terrains or cruising through city streets, it delivers exceptional performance, comfort, and durability. Experience the ultimate blend of adventure and luxury with the Land Cruiser. Its powerful engine, advanced off-road capabilities, and spacious interior make it a reliable choice for off-road enthusiasts and families alike.",
+        "rating": 4.7
+    },
+    {
+        "image": "https://i.ibb.co/cxGVNLd/2023bmw3series900x500.jpg",
+        "name": "BMW 3 Series",
+        "brand": "BMW",
+        "type": "Sedan",
+        "price": 40000,
+        "short_description": "Luxurious and agile, the BMW 3 Series sedan offers a dynamic driving experience. With powerful engine options, precise handling, and a premium interior, it combines performance and elegance in one sleek package.",
+        "long_description": "The BMW 3 Series is a symbol of driving pleasure. Whether you're navigating city streets or winding country roads, this sedan offers an exhilarating experience. Its powerful engine lineup provides impressive acceleration, while the finely-tuned suspension ensures a smooth ride. Inside, the cabin exudes luxury, featuring high-quality materials and advanced technology. With its perfect balance of sportiness and comfort, the 3 Series remains a benchmark in the luxury sedan segment. Explore the world in style with the BMW 3 Series.",
+        "rating": 4.8
+    },
+    {
+        "image": "https://i.ibb.co/nn6Q9SQ/X31900x500.png",
+        "name": "BMW X3",
+        "brand": "BMW",
+        "type": "SUV",
+        "price": 45000,
+        "short_description": "The BMW X3 SUV combines versatility and performance. With spacious interiors, cutting-edge technology, and strong engine options, it's the perfect companion for both city living and off-road adventures.",
+        "long_description": "The BMW X3 stands out in the competitive SUV market with its impressive blend of versatility and performance. It offers a spacious and luxurious interior, accommodating passengers with comfort and style. Under the hood, powerful engine options deliver exhilarating acceleration and smooth cruising on highways. The X3's nimble handling makes it easy to maneuver through city traffic, while its off-road capabilities ensure confident exploration of nature's trails. Inside, advanced technology enhances convenience, connectivity, and safety. With its striking design, the X3 is a true head-turner on the road. Experience the joy of driving with the BMW X3.",
+        "rating": 4.7
+    },
+    {
+        "image": "https://i.ibb.co/d6TxSZf/7series900x500.jpg",
+        "name": "BMW 7 Series",
+        "brand": "BMW",
+        "type": "Sedan",
+        "price": 80000,
+        "short_description": "The BMW 7 Series sedan epitomizes luxury and innovation. With its opulent interior, powerful engine options, and cutting-edge technology, it redefines what it means to travel in style.",
+        "long_description": "Indulge in the pinnacle of automotive luxury with the BMW 7 Series. This sedan sets new standards for opulence and innovation, providing an unparalleled experience for both drivers and passengers. Its meticulously crafted interior features exquisite materials, artisanal detailing, and advanced tech, ensuring a first-class journey. Under the hood, the 7 Series offers a range of potent engine options, delivering effortless acceleration and a serene ride. The sedan's cutting-edge technology includes state-of-the-art infotainment, driver-assistance systems, and creature comforts that cater to every whim. With its graceful design and commanding presence, the 7 Series is a statement of sophistication and prestige.",
+        "rating": 4.9
+    },
+    {
+        "image": "https://i.ibb.co/bRnsJxc/X72900x563900x500.jpg",
+        "name": "BMW X7",
+        "brand": "BMW",
+        "type": "SUV",
+        "price": 90000,
+        "short_description": "The BMW X7 SUV embodies grandeur and performance. With its expansive interior, potent engine choices, and advanced technology, it offers an unparalleled experience for luxury SUV enthusiasts.",
+        "long_description": "Experience grandeur on wheels with the BMW X7. This SUV stands as a beacon of luxury, combining vast interior space, commanding power, and cutting-edge technology. Inside, the X7 indulges passengers with three rows of lavish seating, premium materials, and meticulous craftsmanship. Powerful engine options, including turbocharged V8s, deliver swift acceleration and smooth highway cruising. The X7's advanced technology encompasses a wealth of features, from intuitive infotainment to innovative driver-assistance systems, ensuring a seamless and enjoyable journey. Its bold exterior design exudes confidence and presence, making a strong statement wherever it travels. Elevate your SUV experience with the BMW X7.",
+        "rating": 4.8
+    },
+    {
+        "image": "https://i.ibb.co/fXVhz3d/Benz-EClass15-C1191071900x500.jpg",
+        "name": "Mercedes-Benz E-Class",
+        "brand": "Mercedes-Benz",
+        "type": "Sedan",
+        "price": 50000,
+        "short_description": "The Mercedes-Benz E-Class sedan exemplifies luxury and performance. With its elegant design, advanced technology, and powerful engine options, it offers a superior driving experience.",
+        "long_description": "The Mercedes-Benz E-Class sedan is the epitome of luxury and performance. With its sleek exterior, refined interior, and cutting-edge technology, it provides an unmatched driving experience. The E-Class is equipped with a range of powerful and efficient engines, ensuring exhilarating performance while maintaining fuel efficiency. Inside, the cabin is adorned with premium materials and state-of-the-art technology, creating a comfortable and luxurious atmosphere for both driver and passengers. Its advanced safety features and intuitive infotainment system further enhance the driving experience. The E-Class seamlessly blends elegance, comfort, and innovation, making it a top choice in the luxury sedan segment.",
+        "rating": 4.9
+    },
+    {
+        "image": "https://i.ibb.co/xF2zTfx/mercedesglecoupe2019900x500.jpg",
+        "name": "Mercedes-Benz GLE",
+        "brand": "Mercedes-Benz",
+        "type": "SUV",
+        "price": 60000,
+        "short_description": "The Mercedes-Benz GLE SUV combines power and refinement. With spacious interiors, cutting-edge technology, and versatile performance, it's a true luxury SUV.",
+        "long_description": "The Mercedes-Benz GLE SUV is a testament to luxury and versatility. Its bold exterior design hints at the power and performance within. The GLE is available with a range of potent engines, delivering both exhilarating acceleration and efficient cruising. Inside, the cabin offers spacious seating for passengers, adorned with high-quality materials and advanced technology. The SUV's infotainment system provides seamless connectivity and entertainment options, enhancing every journey. The GLE is equally adept at urban commutes and off-road adventures, thanks to its advanced suspension system and all-wheel-drive capabilities. With its combination of elegance, power, and technology, the GLE redefines the luxury SUV experience.",
+        "rating": 4.8
+    },
+    {
+        "image": "https://i.ibb.co/5YZQR4Y/12400702b900x500.jpg",
+        "name": "Mercedes-Benz C-Class",
+        "brand": "Mercedes-Benz",
+        "type": "Sedan",
+        "price": 45000,
+        "short_description": "The Mercedes-Benz C-Class sedan offers a perfect blend of luxury and agility. With its sophisticated design, advanced features, and spirited performance, it delivers a captivating driving experience.",
+        "long_description": "The Mercedes-Benz C-Class sedan is a masterpiece of design and engineering. Its elegant exterior lines and luxurious interior create an atmosphere of sophistication and refinement. The C-Class is powered by a range of dynamic engines, offering a thrilling driving experience without compromising fuel efficiency. Inside, the cabin is adorned with premium materials and cutting-edge technology, providing both comfort and entertainment for passengers. The C-Class sedan's advanced safety features and precise handling ensure a secure and enjoyable ride. Whether cruising on highways or navigating city streets, the C-Class offers an exhilarating and comfortable journey. Experience the epitome of luxury and agility with the Mercedes-Benz C-Class.",
+        "rating": 4.7
+    },
+    {
+        "image": "https://i.ibb.co/J5GJ0Cm/mercedesbenz900x500.jpg",
+        "name": "Mercedes-Benz GLC",
+        "brand": "Mercedes-Benz",
+        "type": "SUV",
+        "price": 55000,
+        "short_description": "The Mercedes-Benz GLC SUV combines elegance and versatility. With spacious interiors, advanced technology, and smooth performance, it redefines the luxury SUV experience.",
+        "long_description": "The Mercedes-Benz GLC SUV stands as a symbol of luxury and versatility. Its refined exterior design, highlighted by the iconic Mercedes-Benz grille, commands attention on the road. The GLC offers a spacious and comfortable interior, meticulously crafted with high-quality materials and attention to detail. Inside, passengers are surrounded by advanced technology, including an intuitive infotainment system and comprehensive safety features. The GLC's performance is equally impressive, with powerful engine options providing both spirited acceleration and efficient cruising. Whether it's a family road trip or a night out in the city, the GLC offers a luxurious and enjoyable ride. Experience the perfect blend of elegance and practicality with the Mercedes-Benz GLC.",
+        "rating": 4.9
+    },
+    {
+        "image": "https://i.ibb.co/Js2t708/Tesla-Model-SNose-Cone-Grills900x500.jpg",
+        "name": "Tesla Model S",
+        "brand": "Tesla",
+        "type": "Sedan",
+        "price": 80000,
+        "short_description": "The Tesla Model S is a groundbreaking all-electric sedan. It offers unparalleled acceleration, cutting-edge technology, and an impressive electric range. Experience the future of driving today.",
+        "long_description": "The Tesla Model S redefines the concept of an electric sedan. Its sleek design, combined with remarkable performance, makes it a leader in the EV market. With Ludicrous mode, it accelerates from 0 to 60 mph in mere seconds, delivering an exhilarating driving experience. The Model S boasts an impressive electric range, allowing for long journeys without range anxiety. Its spacious and luxurious interior is complemented by an advanced infotainment system, offering a seamless blend of entertainment and functionality. Safety features, including Autopilot, provide an extra layer of security. Experience the future of driving with the Tesla Model S.",
+        "rating": 4.9
+    },
+    {
+        "image": "https://i.ibb.co/4jW0gbB/teslamodel3lr2021900x500.jpg",
+        "name": "Tesla Model 3",
+        "brand": "Tesla",
+        "type": "Sedan",
+        "price": 45000,
+        "short_description": "The Tesla Model 3 is an affordable all-electric sedan. It combines sleek design, impressive range, and cutting-edge technology. Enjoy emissions-free driving without compromising on style or performance.",
+        "long_description": "The Tesla Model 3 sets a new standard for affordable electric sedans. Its minimalist yet elegant design captures attention on the road. With a competitive price point, it brings electric driving within reach for many enthusiasts. The Model 3 offers an impressive electric range, ensuring you can travel long distances without worries. Inside, a spacious and tech-savvy cabin welcomes occupants. The intuitive touchscreen interface controls various functions, providing a seamless user experience. Its acceleration is swift and responsive, making city driving and highway merging effortless. Enhanced safety features, including Autopilot capabilities, add to its appeal. Join the electric revolution with the Tesla Model 3.",
+        "rating": 4.8
+    },
+    {
+        "image": "https://i.ibb.co/JdDnJQz/8c4269d697f99aab1ac44fa464fd7157900x500.jpg",
+        "name": "Tesla Model X",
+        "brand": "Tesla",
+        "type": "SUV",
+        "price": 90000,
+        "short_description": "The Tesla Model X is an electric SUV that combines spacious luxury with impressive performance. Its distinctive Falcon Wing doors and advanced features redefine the SUV experience.",
+        "long_description": "The Tesla Model X offers an unmatched combination of luxury, performance, and innovation in the SUV segment. Its distinctive Falcon Wing doors provide convenient access to the spacious interior, which is crafted with high-quality materials and advanced technology. The Model X boasts an impressive electric range, making it ideal for family road trips and daily commuting. Its acceleration is swift, allowing it to rival many sports cars on the road. Enhanced safety features, including Autopilot capabilities, provide an extra layer of security. Experience the future of SUV driving with the Tesla Model X.",
+        "rating": 4.7
+    },
+    {
+        "image": "https://i.ibb.co/HnndMDW/2023-Tesla-Model-YPerformance-SUVBlue-TW1001x5651900x500.jpg",
+        "name": "Tesla Model Y",
+        "brand": "Tesla",
+        "type": "SUV",
+        "price": 55000,
+        "short_description": "The Tesla Model Y is a versatile electric SUV that combines practicality with performance. It offers spacious interiors, impressive range, and cutting-edge technology, making it perfect for modern families.",
+        "long_description": "The Tesla Model Y redefines the SUV experience with its blend of versatility and performance. Its spacious interior accommodates passengers and cargo with ease, making it a practical choice for families and adventurers. The Model Y delivers an impressive electric range, ensuring you can embark on long journeys without limitations. Its acceleration is swift and responsive, providing a thrilling driving experience. Inside, a minimalist yet stylish cabin features advanced technology, including a user-friendly touchscreen interface and Autopilot capabilities. The Model Y is designed for modern families seeking both practicality and sustainability in their SUV. Embrace the future of driving with the Tesla Model Y.",
+        "rating": 4.9
+    },
+    {
+        "image": "https://i.ibb.co/yfdygyq/2020-Honda-Civic-Pace-Car26900x500.jpg",
+        "name": "Honda Civic",
+        "brand": "Honda",
+        "type": "Sedan",
+        "price": 24000,
+        "short_description": "The Honda Civic sedan combines efficiency and style. With its sleek design and advanced technology, it offers a comfortable and engaging driving experience.",
+        "long_description": "The Honda Civic is a beloved compact sedan known for its reliability, fuel efficiency, and stylish design. Its aerodynamic profile not only enhances its visual appeal but also contributes to fuel efficiency. Inside, the Civic boasts a spacious and modern interior, equipped with advanced technology and high-quality materials. The sedan's smooth and responsive handling makes every drive enjoyable, whether you're navigating city streets or cruising on highways. With its strong safety features and impressive fuel efficiency, the Civic is a practical choice for everyday commuting. Experience the perfect blend of comfort and performance with the Honda Civic.",
+        "rating": 4.7
+    },
+    {
+        "image": "https://i.ibb.co/2n86rzj/2020-Honda-CRV-Hybrid-cropped900x500.jpg",
+        "name": "Honda CR-V",
+        "brand": "Honda",
+        "type": "SUV",
+        "price": 28000,
+        "short_description": "The Honda CR-V SUV offers versatility and practicality. With its spacious interior, advanced safety features, and smooth ride, it's designed for both adventure and daily commutes.",
+        "long_description": "The Honda CR-V stands as a testament to versatility and practicality. This SUV offers a spacious and comfortable interior, making it ideal for families and long journeys. Its advanced safety features, including Honda Sensing technology, provide peace of mind on the road. The CR-V's smooth ride and responsive handling make it equally enjoyable for city driving and off-road adventures. The SUV's spacious cargo area ensures you have ample room for luggage and gear. With its fuel-efficient engine and reliable performance, the CR-V is a well-rounded choice for those seeking a dependable SUV. Embrace the spirit of adventure with the Honda CR-V.",
+        "rating": 4.8
+    },
+    {
+        "image": "https://i.ibb.co/gMc2dHh/169881682781000x700900x500.jpg",
+        "name": "Honda Accord",
+        "brand": "Honda",
+        "type": "Sedan",
+        "price": 29000,
+        "short_description": "The Honda Accord sedan offers sophistication and performance. With its powerful engine options, luxurious interior, and cutting-edge technology, it redefines the midsize sedan segment.",
+        "long_description": "Experience sophistication and performance in the Honda Accord sedan. This midsize car boasts a powerful engine lineup, ensuring a thrilling driving experience with excellent acceleration and responsiveness. Its sleek exterior design exudes elegance and modernity, making a bold statement on the road. Inside, the Accord features a spacious and luxurious cabin, adorned with premium materials and advanced technology. The sedan's comfortable seating and quiet interior create a serene atmosphere for both drivers and passengers. With its user-friendly infotainment system and driver-assistance features, the Accord offers a seamless and safe journey. Whether you're commuting to work or embarking on a road trip, the Accord delivers a refined and enjoyable ride. Elevate your driving experience with the Honda Accord.",
+        "rating": 4.9
+    },
+    {
+        "image": "https://i.ibb.co/JCqVW9C/2023-Honda-Pilot-Trail-Sport71024x555900x500.jpg",
+        "name": "Honda Pilot",
+        "brand": "Honda",
+        "type": "SUV",
+        "price": 32000,
+        "short_description": "The Honda Pilot SUV blends spaciousness with advanced features. With its three-row seating, ample cargo space, and modern technology, it's designed for family adventures.",
+        "long_description": "Embark on family adventures with the Honda Pilot SUV. This spacious and versatile vehicle offers three-row seating, accommodating up to eight passengers comfortably. With its ample cargo space, the Pilot ensures you have room for all your gear and essentials. The SUV's modern technology features, including a responsive touchscreen infotainment system and advanced safety aids, enhance convenience and peace of mind on the road. The Pilot's powerful engine provides smooth acceleration and confident highway cruising, making it suitable for both city driving and long journeys. Its comfortable ride and quiet interior create a pleasant atmosphere for all occupants. With its robust towing capacity and off-road capabilities, the Pilot is ready for outdoor excursions and towing trailers. Experience the perfect blend of space, comfort, and technology with the Honda Pilot.",
+        "rating": 4.7
+    },
+    {
+        "image": "https://i.ibb.co/Ms97fBK/29425903web1220611-Todays-Drive-Mitsubishi-Outlander1900x500.jpg",
+        "name": "Mitsubishi Outlander",
+        "brand": "Mitsubishi",
+        "type": "SUV",
+        "price": 26000,
+        "short_description": "The Mitsubishi Outlander SUV combines style, comfort, and performance. With its spacious interior, advanced technology, and smooth handling, it's ideal for both city drives and off-road adventures.",
+        "long_description": "The Mitsubishi Outlander is the epitome of versatility and comfort. Its spacious interior accommodates passengers with ample legroom and high-quality materials. Advanced technology, including a user-friendly infotainment system and robust safety features, enhances the driving experience. Under the hood, powerful engine options provide a smooth and responsive ride, whether cruising on highways or tackling off-road trails. The Outlander's sleek design and robust build make it a head-turner on any road. Experience the perfect blend of style and performance with the Mitsubishi Outlander.",
+        "rating": 4.6
+    },
+    {
+        "image": "https://i.ibb.co/xMs2Cwq/2021-Mitsubishi-Eclipse-Crossexceedawdred-SUV1200x8001900x500.jpg",
+        "name": "Mitsubishi Eclipse Cross",
+        "brand": "Mitsubishi",
+        "type": "SUV",
+        "price": 24000,
+        "short_description": "The Mitsubishi Eclipse Cross SUV redefines urban driving. With its agile handling, modern design, and advanced safety features, it offers a thrilling and secure driving experience for city dwellers.",
+        "long_description": "Navigate city streets with confidence in the Mitsubishi Eclipse Cross. Its compact size and agile handling make maneuvering through traffic a breeze. Inside, the cabin impresses with a contemporary design, comfortable seating, and intuitive controls. The Eclipse Cross is packed with advanced safety features, providing peace of mind on every journey. Its turbocharged engine delivers a punchy performance, ensuring responsive acceleration and smooth cruising. With its striking exterior and sleek profile, the Eclipse Cross stands out in the urban landscape. Discover a new level of urban driving with Mitsubishi Eclipse Cross.",
+        "rating": 4.5
+    },
+    {
+        "image": "https://i.ibb.co/MhC1T3P/Mitsubishi-Lancer-Evo-X900x500.jpg",
+        "name": "Mitsubishi Lancer",
+        "brand": "Mitsubishi",
+        "type": "Sedan",
+        "price": 22000,
+        "short_description": "The Mitsubishi Lancer sedan combines affordability and style. With its efficient engine, comfortable interior, and modern features, it offers a reliable and enjoyable driving experience.",
+        "long_description": "Embrace affordability without compromise in the Mitsubishi Lancer. This sedan boasts a fuel-efficient engine that delivers an economical yet responsive performance. Inside, the Lancer welcomes occupants with comfortable seats, intuitive controls, and a range of modern features. Its spacious cabin ensures a pleasant ride for all passengers. Whether commuting to work or embarking on a weekend getaway, the Lancer offers a smooth and enjoyable driving experience. Its stylish exterior design and aerodynamic profile make it a standout in its class. Experience the perfect balance of practicality and style with the Mitsubishi Lancer.",
+        "rating": 4.3
+    },
+    {
+        "image": "https://i.ibb.co/VYLxJ1J/c82f00d8119692664a0f1eb462c53c4a900x500.jpg",
+        "name": "Mitsubishi Pajero Sport",
+        "brand": "Mitsubishi",
+        "type": "SUV",
+        "price": 30000,
+        "short_description": "The Mitsubishi Pajero Sport SUV combines ruggedness and luxury. With its powerful engine, off-road capabilities, and premium interior, it's designed for adventurers seeking both thrill and comfort.",
+        "long_description": "Embark on thrilling adventures with the Mitsubishi Pajero Sport. This SUV is engineered for off-road excellence, with robust features such as four-wheel drive, skid plates, and ample ground clearance. Its powerful engine provides plenty of torque for conquering challenging terrains. Inside, the Pajero Sport pampers passengers with luxurious materials, spacious seating, and advanced infotainment. Whether navigating rocky trails or cruising on highways, this SUV ensures a smooth and secure ride. Its bold exterior design and muscular stance reflect its adventurous spirit. Explore the great outdoors in style with the Mitsubishi Pajero Sport.",
+        "rating": 4.7
+    },
+    {
+        "image": "https://i.ibb.co/zSkzLLk/altimaexterior19tdiuslhdpace206ximglfullmsmart900x500.jpg",
+        "name": "Nissan Altima",
+        "brand": "Nissan",
+        "type": "Sedan",
+        "price": 28000,
+        "short_description": "The Nissan Altima sedan offers a perfect blend of style, performance, and efficiency. With advanced technology, comfortable interiors, and a smooth ride, it redefines the sedan experience.",
+        "long_description": "The Nissan Altima stands as a testament to Nissan's commitment to innovation and comfort. This sedan offers a seamless blend of style, performance, and efficiency. Its elegant exterior design catches the eye, while its powerful yet fuel-efficient engine ensures a thrilling drive every time. Inside, the Altima greets passengers with spacious, plush interiors, complete with state-of-the-art technology for a connected and enjoyable journey. Safety is paramount, with advanced driver-assistance features providing peace of mind to drivers and passengers alike. Whether you're cruising city streets or embarking on long highway journeys, the Altima offers a refined and smooth ride, making every drive an exceptional experience.",
+        "rating": 4.7
+    },
+    {
+        "image": "https://i.ibb.co/kMm2132/j5zs-HEbau-Rc7028knj8cj-Tkg2-Xe6-Lgl4-Ved-CQq-F4900x500.jpg",
+        "name": "Nissan Rogue",
+        "brand": "Nissan",
+        "type": "SUV",
+        "price": 32000,
+        "short_description": "The Nissan Rogue SUV is the epitome of versatility, offering spacious interiors, advanced tech, and exceptional safety features. It's engineered for both urban and off-road adventures.",
+        "long_description": "The Nissan Rogue SUV is designed to cater to the diverse needs of modern adventurers. With its robust build and versatile performance, it navigates city streets with ease and tackles off-road challenges with confidence. Inside, the Rogue impresses with spacious and well-designed interiors, offering ample cargo space and comfortable seating for both passengers and luggage. Cutting-edge technology features enhance convenience, entertainment, and safety, ensuring a connected and secure ride. The Rogue's efficient yet powerful engine delivers a smooth and responsive drive, making it an ideal companion for long journeys and family outings. With its striking design and practical features, the Rogue stands as a beacon of versatility in the SUV segment.",
+        "rating": 4.8
+    },
+    {
+        "image": "https://i.ibb.co/0KF3x6b/BW21-Nissan-Titan-New-Mobile900x500.jpg",
+        "name": "Nissan Titan",
+        "brand": "Nissan",
+        "type": "Truck",
+        "price": 40000,
+        "short_description": "The Nissan Titan truck offers unmatched power, rugged design, and advanced technology. With exceptional towing capacity and off-road capabilities, it's the perfect vehicle for tough tasks.",
+        "long_description": "The Nissan Titan truck is engineered for the most demanding tasks, from heavy-duty hauling to off-road adventures. Its powerful engine options provide exceptional towing capacity, making it ideal for towing trailers, boats, or heavy loads with ease. The Titan's rugged exterior design exudes strength and confidence, showcasing its capability to conquer challenging terrains. Inside the cabin, advanced technology and luxurious features provide comfort and convenience for both work and leisure. The Titan's off-road capabilities are enhanced with features like skid plates and hill descent control, ensuring it's prepared for any adventure. With its robust build, dependable performance, and advanced safety features, the Titan truck is the epitome of reliability and power in the pickup truck segment.",
+        "rating": 4.9
+    },
+    {
+        "image": "https://i.ibb.co/1JBS9MS/688561208648a9644abeb900x500.jpg",
+        "name": "Nissan 370Z",
+        "brand": "Nissan",
+        "type": "Sports Car",
+        "price": 45000,
+        "short_description": "The Nissan 370Z sports car embodies pure performance with its powerful engine, responsive handling, and aerodynamic design. It offers an exhilarating driving experience for enthusiasts.",
+        "long_description": "The Nissan 370Z sports car is a symbol of high-performance engineering and driving exhilaration. Its powerful V6 engine delivers thrilling acceleration and a sonorous exhaust note, providing an adrenaline-pumping experience with every press of the throttle. The 370Z's responsive handling, precise steering, and balanced chassis make it a joy to drive on winding roads and racetracks alike. Its aerodynamic design not only enhances its visual appeal but also contributes to its stability at high speeds. Inside, the cockpit is designed with the driver in mind, featuring supportive seats, intuitive controls, and advanced technology. Whether you're pushing its limits on the track or enjoying a spirited drive on your favorite scenic route, the 370Z offers a pure and unfiltered driving experience for sports car enthusiasts.",
+        "rating": 4.8
+    },
+    {
+        "image": "https://i.ibb.co/T0NqYpq/2017-Hyundai-Elantra-ADElitesedan2017120901900x500.jpg",
+        "name": "Hyundai Elantra",
+        "brand": "Hyundai",
+        "type": "Sedan",
+        "price": 21000,
+        "short_description": "The Hyundai Elantra is a stylish and reliable sedan that combines fuel efficiency with modern features. Its sleek design, comfortable interior, and advanced technology make it a top choice for urban commuting.",
+        "long_description": "The Hyundai Elantra is a testament to modern design and engineering. This sedan boasts a sleek exterior that catches the eye, while its comfortable and well-appointed interior creates a luxurious driving experience. Equipped with advanced safety features and the latest in infotainment technology, the Elantra provides both security and entertainment on the road. Its fuel-efficient engine ensures eco-friendly driving without compromising on performance. Whether navigating city streets or cruising on highways, the Elantra delivers a smooth and enjoyable ride, making it the ideal companion for both daily commutes and long journeys.",
+        "rating": 4.5
+    },
+    {
+        "image": "https://i.ibb.co/t2pSsW6/Hyundai-Tucson-Sport1900x500.jpg",
+        "name": "Hyundai Tucson",
+        "brand": "Hyundai",
+        "type": "SUV",
+        "price": 28000,
+        "short_description": "The Hyundai Tucson is a versatile SUV that combines spacious interiors with advanced safety features. Whether it's family outings or off-road adventures, the Tucson delivers comfort and reliability.",
+        "long_description": "Embark on endless adventures with the Hyundai Tucson, a dynamic SUV that excels in both style and performance. Its bold and athletic exterior design hints at the power and capability that lies within. The Tucson's spacious interior offers ample room for passengers and cargo, ensuring everyone travels in comfort. Packed with advanced safety features, including adaptive cruise control and lane-keeping assist, the Tucson provides peace of mind on every journey. Its responsive engine options deliver a smooth and efficient ride, whether you're navigating city streets or venturing off the beaten path. With its rugged reliability and modern amenities, the Tucson is the perfect SUV for families and adventurers alike.",
+        "rating": 4.7
+    },
+    {
+        "image": "https://i.ibb.co/KbD1Yq3/hyundaisantafe01900x500.jpg",
+        "name": "Hyundai Santa Fe",
+        "brand": "Hyundai",
+        "type": "SUV",
+        "price": 32000,
+        "short_description": "The Hyundai Santa Fe is a spacious and luxurious SUV designed for family comfort. With advanced safety features and a refined interior, it offers a premium driving experience.",
+        "long_description": "Experience the epitome of luxury and space with the Hyundai Santa Fe, an SUV that redefines family driving. Its elegant exterior design is matched by a roomy and sophisticated interior, providing both style and comfort for all passengers. With three rows of seating, the Santa Fe accommodates large families with ease. Advanced safety technologies, such as blind-spot monitoring and rear cross-traffic alert, ensure the safety of everyone on board. The Santa Fe's responsive engine delivers impressive power, making it a joy to drive on highways and through winding roads. Whether it's a cross-country road trip or a simple grocery run, the Santa Fe delivers a premium driving experience every time.",
+        "rating": 4.8
+    },
+    {
+        "image": "https://i.ibb.co/ZgfWwBV/hyundaikona20241654547501974900x500.jpg",
+        "name": "Hyundai Kona",
+        "brand": "Hyundai",
+        "type": "SUV",
+        "price": 25000,
+        "short_description": "The Hyundai Kona is a compact SUV that combines agility with practicality. Its stylish design, efficient engine, and advanced technology make it a perfect choice for urban adventures.",
+        "long_description": "Discover the perfect balance between style and utility with the Hyundai Kona, a compact SUV designed for modern living. Its eye-catching exterior features sleek lines and bold accents, making it stand out on city streets. The Kona's compact size ensures effortless parking and maneuverability, while its spacious interior provides ample room for both passengers and cargo. Equipped with a fuel-efficient engine and responsive handling, the Kona delivers a smooth and enjoyable driving experience. Its advanced technology, including a touchscreen infotainment system and smartphone integration, keeps you connected and entertained on the go. Whether you're commuting to work or embarking on a weekend getaway, the Hyundai Kona offers both practicality and excitement in one compact package.",
+        "rating": 4.6
+    }
+]
